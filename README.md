@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python, MySQL, MongoDB**
 
-- 📫 How to reach me **pablogarrido219@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1chFTzJF5287GmeFDlGpa9shbnkDFOA7S/view](https://drive.google.com/file/d/1chFTzJF5287GmeFDlGpa9shbnkDFOA7S/view)
 
 - ⚡ Fun fact **I like to turn everyday objects into ingenious solutions**
