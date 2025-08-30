@@ -9,9 +9,6 @@
 
 - 💬 Ask me about **Python, MySQL, MongoDB**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1chFTzJF5287GmeFDlGpa9shbnkDFOA7S/view](https://drive.google.com/file/d/1chFTzJF5287GmeFDlGpa9shbnkDFOA7S/view)
-
-- ⚡ Fun fact **I like to turn everyday objects into ingenious solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
